@@ -1,0 +1,19 @@
+{
+  "name": "ioshat-objc-bg-color",
+  "title": "Background Color",
+  "version": "0.0.1",
+  "description": "Template for Background Color in Objective-C",
+  "main": "dust.js",
+  "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "bundledDependencies": [
+  ],
+  "settings": {
+    "category": {
+      "type": "string",
+      "default": "shape"
+    }
+  }
+}

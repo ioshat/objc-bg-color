@@ -1,0 +1,6 @@
+
+{#background}
+  {?color}
+    [UIColor {@objCColor}{color}{/objCColor}];
+  {/color}
+{/background}
